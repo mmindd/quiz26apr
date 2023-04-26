@@ -11,7 +11,7 @@
         if(x>1)
         {
             int[] num = new int[2];
-       for (int i = 1; i < 7; ++i)
+            for (int i = 1; i < 7; ++i)
        {
         num[i] = int.Parse(Console.ReadLine());
        }
